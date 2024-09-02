@@ -1,10 +1,8 @@
 {
-  "url": "https://team-v3t5.testit.software/",
-  "privateToken": "OVdudlVRbXN0WVpaRkRzcGhG",
-  "projectId": "e1ba096d-6a1a-4772-ab37-a7543a7f980e",
-  "configurationId": "d8c74cdf-f386-499d-8267-4b73139bef11",
-  //"testRunId": "TEST_RUN_ID",
-  "adapterMode": 2,
-  "automaticCreationTestCases": true
+  "url": "https://team-v3t5.testit.software",
+  "privateToken": "NDVDRDI4RDVMcFhES3VyVjgz",
+  "projectId": "74a46679-7543-42f0-93a4-55d876976e43",
+  "configurationId": "de114209-a70e-4f08-b9cf-12ca5b6d24bb",
+  "adapterMode": 2
 }
 

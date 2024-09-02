@@ -1,0 +1,13 @@
+image: node:latest
+
+stages:
+  - run
+
+second-job:
+  stage: run
+  script:
+    - npm install
+    - npx playwright test
+  artifacts:
+    paths:
+      - node_modules/
