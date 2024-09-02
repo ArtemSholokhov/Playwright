@@ -1,0 +1,10 @@
+{
+  "url": "https://team-v3t5.testit.software/",
+  "privateToken": "OVdudlVRbXN0WVpaRkRzcGhG",
+  "projectId": "e1ba096d-6a1a-4772-ab37-a7543a7f980e",
+  "configurationId": "d8c74cdf-f386-499d-8267-4b73139bef11",
+  //"testRunId": "TEST_RUN_ID",
+  "adapterMode": 2,
+  "automaticCreationTestCases": true
+}
+
