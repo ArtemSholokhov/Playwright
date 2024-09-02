@@ -1,13 +1,4 @@
-# Playwright example
-Example of tests with Playwright framework and adapter for Test IT
-
-## Setup
-
-1. Install [node.js version 16+](https://nodejs.org/)
-2. Clone this repository `git clone https://github.com/testit-tms/js-examples.git && cd playwright`
-3. Install dependencies `npm install`
-4. Configure the tests to run in **tms.config.js** file. [How to configure?](https://github.com/testit-tms/adapters-js/tree/main/testit-adapter-playwright#configuration)
-5. Run tests via `npx playwright test` to upload the results to TMS
+## This project is a basic example of how to run your Playwright tests from GitLab CI/CD repositoty to TestIT TMS and in reverse order.
 
 ## Project structure
 
@@ -18,3 +9,4 @@ Example of tests with Playwright framework and adapter for Test IT
 * **playwright.config.ts** - [configuration file of Playwright](https://playwright.dev/docs/test-configuration)
 * **package.json** - [JSON representation](https://docs.npmjs.com/cli/v9/configuring-npm/package-json?v=true) of a NPM project
 * **tms.config.json** - configuration file where specified base options for tests
+* **.gitlab-ci.yml** - the default configuration of .gitlab-ci.yml, which is main file to run GitLab Pipelines
